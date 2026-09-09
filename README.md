@@ -1,6 +1,6 @@
 # Early-stage epidemic modelling and parameter estimation
 
-A piece of coursework from the University of Bristol module *Mathematical Modelling in Biology, Medicine and Public Health*.
+A piece of coursework from the University of Bristol module *Mathematical Modelling in Biology, Medicine and Public Health*. This body of work was awarded a first-class mark (82).
 
 ## Overview
 
