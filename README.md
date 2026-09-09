@@ -26,7 +26,8 @@ The parameterisation relates the fitted eigenvalues to combinations involving tr
 
 ## Repository structure
 
-- `Coursework_1.pdf` — coursework brief
+- `Coursework_1.pdf` — coursework answers
+- `Questions.pdq` — supplied questions
 - `CW1_4iii_4iv.Rmd` — R implementation for Questions 4(iii) and 4(iv)
 - `CW1_4iii_4iv.pdf` — rendered analysis
 - `data.csv` — supplied data
